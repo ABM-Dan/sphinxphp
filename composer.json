@@ -1,5 +1,5 @@
 {
-    "name": "gigablah/sphinxphp",
+    "name": "secureb/sphinxphp",
     "type": "library",
     "description": "Sphinx Search PHP 5.3+ API with PSR compliance",
     "keywords": ["sphinx","search","api"],

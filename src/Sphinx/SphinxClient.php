@@ -909,7 +909,7 @@ class SphinxClient
     }
 
     /**
-     * Set up anchor point for geosphere distance calculations. Required to use @geodist in filters and sorting
+     * Set up anchor point for geosphere distance calculations. Required to use "@geodist" in filters and sorting
      *
      * @param string $attrlat  latitude attribute name
      * @param string $attrlong longitude attribute name
